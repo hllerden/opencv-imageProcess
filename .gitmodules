@@ -1,0 +1,3 @@
+[submodule "opencv-motionDetect"]
+	path = opencv-motionDetect
+	url = https://github.com/hllerden/opencv-motionDetect.git
