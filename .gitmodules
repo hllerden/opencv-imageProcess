@@ -1,6 +1,3 @@
 [submodule "opencv-motionDetect"]
 	path = opencv-motionDetect
 	url = https://github.com/hllerden/opencv-motionDetect.git
-[submodule "opencv-yolo"]
-	path = opencv-yolo
-	url = ./opencv-yolo

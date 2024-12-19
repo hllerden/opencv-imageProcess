@@ -12,5 +12,4 @@ include_directories( ${OpenCV_INCLUDE_DIRS})
 
 add_subdirectory(main)
 add_subdirectory(opencv-motionDetect)
-add_subdirectory(opencv-yolo)
 
